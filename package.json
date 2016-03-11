@@ -12,7 +12,7 @@
     "email": "gyandeeps@gmail.com"
   },
   "dependencies": {
-    "eslint": "^2.0.0"
+    "eslint": "^2.0.0-rc.0"
   },
   "devDependencies": {
     "shelljs": "~0.3.0"
